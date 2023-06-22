@@ -44,7 +44,6 @@ JSX is an XML-like syntax extension to ECMAScript without any defined semantics.
   - [Fresh](https://fresh.deno.dev/)
 - [Solid.js](https://www.solidjs.com/)
 - [Inferno](https://www.infernojs.org/)
-- [Million.js](https://million.dev/)
 - [Nano JSX](https://nanojsx.io/)
 - [Crank.js](https://crank.js.org/)
 - [Rax](https://rax.js.org/)
