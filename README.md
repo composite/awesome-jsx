@@ -80,3 +80,5 @@ JSX is an XML-like syntax extension to ECMAScript without any defined semantics.
 ### Transformations
 
 - [@babel/plugin-syntax-jsx](https://babeljs.io/docs/babel-plugin-syntax-jsx)
+- [vite](https://vitejs.dev/guide/features.html#jsx) - Built-in Support
+- [swc](https://swc.rs/docs/configuration/compilation#jscparser) - Built-in support **but only affects React**.
